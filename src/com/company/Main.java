@@ -30,7 +30,6 @@ public class Main {
             user.accept(r);
             r.close();
         }
-
     }
 
     public static void main(String[] args) {
